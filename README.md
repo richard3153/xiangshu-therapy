@@ -13,7 +13,7 @@
 - **CLI 版本** (`xiangshu.py`)：命令行交互，适合快速查询
 - **GUI 版本** (`xiangshu_gui_bilingual.py`)：图形界面，支持中英文切换
 - **数据独立** (`xiangshu_data.py` / `xiangshu_data_en.py`)：配方数据与程序分离，便于维护和扩展
-- **丰富数据**：包含 557 条配方，覆盖 832 个症状关键词
+- **丰富数据**：包含 963 条配方，覆盖 1144 个症状关键词
 - **实时筛选**：输入症状时，右侧症状列表实时筛选，点击即搜
 - **双击复制**：查询结果中的象数可双击复制到剪贴板
 
@@ -48,8 +48,8 @@ python xiangshu_en.py
 
 | 文件 | 说明 |
 |------|------|
-| `xiangshu_data.py` | 配方数据文件（中文，557 条配方，832 个症状关键词） |
-| `xiangshu_data_en.py` | 配方数据文件（英文，557 条配方，832 个症状关键词） |
+| `xiangshu_data.py` | 配方数据文件（中文，963 条配方，1144 个症状关键词） |
+| `xiangshu_data_en.py` | 配方数据文件（英文，921 条配方，1153 个症状关键词） |
 | `xiangshu.py` | CLI 版本主程序（中英文启动器） |
 | `xiangshu_en.py` | CLI 英文版本主程序 |
 | `xiangshu_gui.py` | GUI 中文版本主程序（tkinter） |
@@ -111,7 +111,7 @@ An interactive query system for Bagua Xiangshu Therapy (八卦象数疗法), fou
 - **CLI version** (`xiangshu.py`): Command-line interface for quick queries
 - **GUI version** (`xiangshu_gui_bilingual.py`): Graphical interface with Chinese/English toggle
 - **Separated data** (`xiangshu_data.py` / `xiangshu_data_en.py`): Formula data separated from code for easy maintenance
-- **Rich database**: 557 formulas covering 832 symptom keywords
+- **Rich database**: 963 formulas covering 1144 symptom keywords
 - **Real-time filtering**: Right-side symptom list filters as you type
 - **Double-click to copy**: Copy Xiangshu numbers to clipboard with double-click
 
@@ -146,8 +146,8 @@ python xiangshu_en.py
 
 | File | Description |
 |------|-------------|
-| `xiangshu_data.py` | Formula data file (Chinese, 557 formulas, 832 symptom keywords) |
-| `xiangshu_data_en.py` | Formula data file (English, 557 formulas, 832 symptom keywords) |
+| `xiangshu_data.py` | Formula data file (Chinese, 963 formulas, 1144 symptom keywords) |
+| `xiangshu_data_en.py` | Formula data file (English, 921 formulas, 1153 symptom keywords) |
 | `xiangshu.py` | CLI main program (Chinese/English launcher) |
 | `xiangshu_en.py` | CLI English version main program |
 | `xiangshu_gui.py` | GUI Chinese version main program (tkinter) |
