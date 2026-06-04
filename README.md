@@ -19,16 +19,8 @@
 
 ### 截图预览
 
-#### CLI 版本
-![CLI 截图](screenshot_cli.png)
-
 #### GUI 版本（中文）
 ![GUI 主界面](screenshot_gui_main.png)
-![GUI 搜索结果](screenshot_gui_search.png)
-
-#### GUI 版本（英文）
-![GUI Main Interface (English)](screenshot_gui_main_en.png)
-![GUI Search Results (English)](screenshot_gui_search_en.png)
 
 ### 使用方法
 
@@ -125,16 +117,8 @@ An interactive query system for Bagua Xiangshu Therapy (八卦象数疗法), fou
 
 ### Screenshots
 
-#### CLI Version
-![CLI Screenshot](screenshot_cli.png)
-
 #### GUI Version (Chinese)
 ![GUI Main Interface](screenshot_gui_main.png)
-![GUI Search Results](screenshot_gui_search.png)
-
-#### GUI Version (English)
-![GUI Main Interface (English)](screenshot_gui_main_en.png)
-![GUI Search Results (English)](screenshot_gui_search_en.png)
 
 ### Usage
 
